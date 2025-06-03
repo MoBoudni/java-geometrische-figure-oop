@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module AbstrakteKlassen_AbstrakteMethoden {
+}
