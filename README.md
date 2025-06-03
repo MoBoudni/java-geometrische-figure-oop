@@ -1,6 +1,6 @@
 # Java Geometrische Figuren - OOP Demonstration
 
-Dieses Repository enthält ein didaktisches Java-Projekt, das grundlegende objektorientierte Programmierkonzepte anhand geometrischer Figuren demonstriert. Es dient als Lernressource für Studierende und Entwickler, die ihre Kenntnisse in objektorientierter Programmierung vertiefen möchten.
+Dieses Repository enthält ein didaktisches Java-Projekt, das grundlegende objektorientierte Programmierkonzepte anhand geometrischer Figuren demonstriert. Es dient als Lernressource zur Vertiefung der Kenntnisse in objektorientierter Programmierung.
 
 ## Projektübersicht
 
